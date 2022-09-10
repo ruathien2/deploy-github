@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    height: auto;
+    font-size: 62.5%;
+}
+
+body{
+    margin-top: 0.7rem;
+}
+
+.boder{
+    border: 1px solid rgb(210, 83, 241);
+    box-shadow: 0 0 10px rgb(210, 83, 241);
+    border-radius: 10px;
+}
